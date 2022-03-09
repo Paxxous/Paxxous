@@ -1,7 +1,1 @@
-skid mnan
-
-
-
-don't want to be a skid
-
-paxxous.xyz
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paxxous&hide=contribs,prs)
